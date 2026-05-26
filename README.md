@@ -7,3 +7,4 @@ Jetzt schreiben wir noch eine Zeile hinzu!
 noch eine Änderung  
 
   Hallo Nora :) 
+  Tschüssi
