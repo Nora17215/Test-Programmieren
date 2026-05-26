@@ -1,4 +1,5 @@
 # Test-Programmieren
-Test für den Kurs in 2026 zur Übung.
+Test für diesen Kurs in 2026 zur Übung.
 
-So geht´s!
+
+Jetzt schreiben wir noch eine Zeile hinzu!
